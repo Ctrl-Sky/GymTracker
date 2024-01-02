@@ -16,4 +16,4 @@ Following your workout, you will then be presented with the final screen where y
 
 In the next tab, Stats, you can view the calendar that tracks which days you've gone to the gym and view all the weight progression graphs for all of your workouts.
 
-![alt text]([http://url/to/img.png](https://ibb.co/XpZCJT0)https://ibb.co/XpZCJT0)
+![alt text](https://ibb.co/XpZCJT0)
