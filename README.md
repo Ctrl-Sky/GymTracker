@@ -4,7 +4,7 @@ Welcome to the Gym Tracker App. I designed this app during my second year of uni
 
 Here is the main screen equipped with a calendar that highlights which days you have been to the gym and the area where you can create new workouts, in this preview I have already provided some examples. 
 
-<img src="AppPreviewImages/MuscleGroupScreen.png" width="138" height="300"/>
+<img src="AppPreviewImages/MuscleGroupScreen.png" width="230" height="500"/>
 ![](AppPreviewImages/MuscleGroupScreen.png)
 
 As you dive into your workouts you will be provided with the next screen where you can create new workouts and view a weight progression graph of each workout to see how much weight you've used for each workout over time.
