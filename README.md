@@ -16,8 +16,10 @@ Screen 1                                                                   |  Sc
 
 Following your workout, you will then be presented with the final screen where you can implement your sets by inputting how much weight and how many reps you do for each set.
 
-// SET VIEW
+<img src="AppPreviewImages/SetScreen.png" width="230" height="500"/>
 
 In the next tab, Stats, you can view the calendar that tracks which days you've gone to the gym and view all the weight progression graphs for all of your workouts.
 
-![alt text](https://ibb.co/XpZCJT0)
+Screen 1                                                                   |  Screen 2
+:-------------------------------------------------------------------------:|:-------------------------------------------------------------------------:
+<img src="AppPreviewImages/StatsScreen.png" width="230" height="500"/>  |  <img src="AppPreviewImages/WeightProgressionScreen.png" width="230" height="500"/>
