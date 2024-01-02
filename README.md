@@ -8,8 +8,11 @@ Here is the main screen equipped with a calendar that highlights which days you 
 
 As you dive into your workouts you will be provided with the next screen where you can create new workouts and view a weight progression graph of each workout to see how much weight you've used for each workout over time.
 
-<img src="AppPreviewImages/WorkoutScreen1.png" width="230" height="500"/>
-<img src="AppPreviewImages/WorkoutScreen2.png" width="230" height="500"/>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="AppPreviewImages/WorkoutScreen1.png" width="230" height="500"/>  |  <img src="AppPreviewImages/WorkoutScreen2.png" width="230" height="500"/>
+
+
 
 Following your workout, you will then be presented with the final screen where you can implement your sets by inputting how much weight and how many reps you do for each set.
 
