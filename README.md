@@ -4,7 +4,7 @@ Welcome to the Gym Tracker App. I designed this app during my second year of uni
 
 Here is the main screen equipped with a calendar that keeps track of and highlights which days you have been to the gym and an area where you can create new workouts that you can freely rename, delete, or add. In this preview, I have already provided some examples. 
 
-Screen 1                                 |  Screen 2                                    | Screen 3
+Screen 1                                 |  Create                                      | Delete
 :---------------------------------------:|:--------------------------------------------:|:-----------------------------------------------------:
 <img src="AppPreviewImages/MuscleGroupScreen.png" width="230" height="500"/> | <img src="AppPreviewImages/MGCreate.png" width="230" height="500"/>  |  <img src="AppPreviewImages/MGDelete.png" width="230" height="500"/>  
 
@@ -15,11 +15,17 @@ Screen 1                                                                   |  Sc
 :-------------------------------------------------------------------------:|:-------------------------------------------------------------------------:
 <img src="AppPreviewImages/WorkoutScreen1.png" width="230" height="500"/>  |  <img src="AppPreviewImages/WorkoutScreen2.png" width="230" height="500"/>
 
+Of course you can also freely add or delete any of these objects.
 
+Create                                                                     |  Delete
+:-------------------------------------------------------------------------:|:-------------------------------------------------------------------------:
+<img src="AppPreviewImages/WCreate.png" width="230" height="500"/>         |  <img src="AppPreviewImages/WDelete.png" width="230" height="500"/>
 
 Following your workout, you will then be presented with the final screen where you can implement your sets by inputting how much weight and how many reps you do for each set.
 
-<img src="AppPreviewImages/SetScreen.png" width="230" height="500"/>
+Screen 1                                 |  Create                                      | Delete
+:---------------------------------------:|:--------------------------------------------:|:-----------------------------------------------------:
+<img src="AppPreviewImages/SetScreen.png" width="230" height="500"/> | <img src="AppPreviewImages/SCreate.png" width="230" height="500"/>  |  <img src="AppPreviewImages/SDelete.png" width="230" height="500"/>  
 
 In the next tab, Stats, you can view the calendar that tracks which days you've gone to the gym and view all the weight progression graphs for all of your workouts.
 
