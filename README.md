@@ -9,17 +9,17 @@ Screen 1                                 |  Create                              
 <img src="AppPreviewImages/MuscleGroupScreen.png" width="230" height="500"/> | <img src="AppPreviewImages/MGCreate.png" width="230" height="500"/>  |  <img src="AppPreviewImages/MGDelete.png" width="230" height="500"/>  
 
 
-As you dive into your workouts you will be provided with the next screen where you can create new exercises and view a weight progression graph of each exerices to see how much weight you've used for each workout over time.
+As you dive into your workouts you will be provided with the next screen where you can create new exercises and view a weight progression graph of each exercise to see how much weight you've used for each workout over time.
 
 Screen 1                                                                   |  Screen 2
 :-------------------------------------------------------------------------:|:-------------------------------------------------------------------------:
 <img src="AppPreviewImages/WorkoutScreen1.png" width="230" height="500"/>  |  <img src="AppPreviewImages/WorkoutScreen2.png" width="230" height="500"/>
 
-Of course you can also freely add or delete any of these objects.
+Of course, you can also freely add or delete any of these objects and rename it, this can be done for the sets as well.
 
-Create                                                                     |  Delete
-:-------------------------------------------------------------------------:|:-------------------------------------------------------------------------:
-<img src="AppPreviewImages/WCreate.png" width="230" height="500"/>         |  <img src="AppPreviewImages/WDelete.png" width="230" height="500"/>
+Create                                   |  Delete                                      | Rename
+:---------------------------------------:|:--------------------------------------------:|:-----------------------------------------------------:
+<img src="AppPreviewImages/WCreate.png" width="230" height="500"/> | <img src="AppPreviewImages/WDelete.png" width="230" height="500"/>  |  <img src="AppPreviewImages/WRename.png" width="230" height="500"/>  
 
 Following your workout, you will then be presented with the final screen where you can implement your sets by inputting how much weight and how many reps you do for each set.
 
