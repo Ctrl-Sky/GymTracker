@@ -6,9 +6,7 @@ Here is the main screen equipped with a calendar that keeps track of and highlig
 
 Screen 1                                 |  Screen 2                                    | Screen 3
 :---------------------------------------:|:--------------------------------------------:|:-----------------------------------------------------:
-<img src="AppPreviewImages/MuscleGroupScreen.png" width="230" height="500"/> |
-<img src="AppPreviewImages/MGCreate.png" width="230" height="500"/>  | 
-<img src="AppPreviewImages/MGDelete.png" width="230" height="500"/>  
+<img src="AppPreviewImages/MuscleGroupScreen.png" width="230" height="500"/> | <img src="AppPreviewImages/MGCreate.png" width="230" height="500"/>  |  <img src="AppPreviewImages/MGDelete.png" width="230" height="500"/>  
 
 
 As you dive into your workouts you will be provided with the next screen where you can create new exercises and view a weight progression graph of each exerices to see how much weight you've used for each workout over time.
